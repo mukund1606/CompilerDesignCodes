@@ -1,0 +1,5 @@
+int a = 5;
+float b = 5.5;
+double c = 5.55555555;
+char d = 'd';
+char e[] = "HelloWorld";
